@@ -1,0 +1,8 @@
+z, t: int;
+b: bool;
+{
+	while(+ < r s true){
+		 z = + t s;
+		 b = ! true;
+	}
+}

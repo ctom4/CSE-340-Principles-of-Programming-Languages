@@ -1,0 +1,10 @@
+a: real;
+{
+    switch(+--+ x0 x1 x2 x3 x4 x5)
+	{
+		while ( < x0 x1 ) {
+			t = + a b;
+		}
+		
+	}
+}

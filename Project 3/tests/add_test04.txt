@@ -1,0 +1,38 @@
+{
+    switch (+ * - x y y z) 
+	{
+        case 1: 
+		{
+            w = * y 1;
+        }
+        case 2: 
+		{
+		
+			switch (+ * - e y y z) 
+			{
+				case 1: 
+				{
+					e = * f g;
+				}
+				case 2: 
+				{
+					r = * s t;
+				}
+				case 3: 
+				{
+					switch (+ * - x y y z) 
+					{
+						case 1: 
+						{
+							a = * b 1;
+						}
+						case 2: 
+						{
+							c = * d e;
+						}
+					}
+				}
+			}
+		}
+    }
+}

@@ -1,0 +1,19 @@
+{
+	switch (z) 
+	{
+        case 1: {
+				
+					while(<> x5 y5) {
+						x1 = + y2 z;
+								
+					}
+				}
+			
+		case 2: {
+					if (> x3 y3)  {
+									x1 = + x3 z;
+								
+							}
+				}
+	}
+}
